@@ -25,7 +25,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure new Roles
 - Configure new Departments
 - Configure new Teams
-- Allow new tickets creation
+- Allow anyone to create tickets
 - Configure new Agents
 - Configure new Users
 - Configure new SLAs
@@ -49,7 +49,7 @@ On your portal ensure you run as the Administrator. If "Agent Panel" is displaye
 </p>
 <br />
 
-<p>1. CONFIGURE NEW ROLES</p>
+<p><h2>1. CONFIGURE NEW ROLES </p></h2>
 <p>
 <img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
 </p>
@@ -79,7 +79,7 @@ You may edit its permission tickets settings: Permissions > Tickets and,  permis
 
 
 
-<p>2. CONFIGURE NEW DEPARTMENTS</p>
+<p><h2>2. CONFIGURE NEW DEPARTMENTS </p></h2>
 <p>
 <img src="https://i.imgur.com/lyYvdzn.png" height="80%" width="80%" alt="New Department configuration"/>
 </p>
@@ -98,7 +98,7 @@ Name it :System Administrators" and keep its default settings.
 <br />
 
 
-<p>2. CONFIGURE NEW TEAMS</p>
+<p><h2>3. CONFIGURE NEW TEAMS </p></h2>
 <p>
 <img src="https://i.imgur.com/uJcVeIm.png" height="80%" width="80%" alt="New Teams configuration"/>
 </p>
@@ -126,7 +126,7 @@ I also set myself as a memeber of the Level II support department. Go to the nei
 <br />
 
 
-<p>4. ALLOW ANYONE TO CREATE TICKETS</p>
+<p><h2>4. ALLOW ANYONE TO CREATE A TICKET </p></h2>
 <p>
 <img src="https://i.imgur.com/asOFNcN.png" height="80%" width="80%" alt="New tickets creation"/>
 </p>
@@ -135,7 +135,7 @@ On the Admin Panel, go to Agents > Settings > User, and allow anyone to create t
 </p>
 <br />
 
-<p>5. CONFIGURE NEW AGENTS (WORKERS)</p>
+<p><h2>5. CONFIGURE NEW AGENTS (WORKERS) </p></h2>
 <p>
 <img src="https://i.imgur.com/IbjdNJz.png" height="80%" width="80%" alt="New agents configuration"/>
 </p>
@@ -182,7 +182,7 @@ The new agents' list.
 <br />
 
 
-<p>6. CONFIGURE NEW USERS (CUSTOMERS)</p>
+<p><h2>6. CONFIGURE NEW USERS (CUSTOMERS) </p></h2>
 <p>
 <img src="https://i.imgur.com/racELsD.png" height="80%" width="80%" alt="New USERS configuration"/>
 </p>
@@ -218,7 +218,7 @@ I created Teddy's profile and followed the same procedure with Suszy's. Then I c
 </p>
 <br />
 
-<p>7. CONFIGURE NEW SLA </p>
+<p><h2>7. CONFIGURE NEW SLA </p></h2>
 <p>
 <img src="https://i.imgur.com/gUqOYzp.png" height="80%" width="80%" alt="New SLA configuration"/>
 </p>
@@ -246,7 +246,7 @@ I set SEV-B and SEV-C of decreasing importance and with a more generous SLA, as 
 <br />
 
 
-<p>8. CONFIGURE HELP TOPICS </p>
+<p><h2>8. CONFIGURE HELP TOPICS </p></h2>
 <p>
 <img src="https://i.imgur.com/LiGTa8B.png" height="80%" width="80%" alt="New Help Topics configuration"/>
 </p>
@@ -257,108 +257,33 @@ On the Admin Panel, go to Agents > Manage > Help Topics > Add New Help Topic.
 
 
 <p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
+<img src="https://i.imgur.com/ddXJ1Fi.png" height="80%" width="80%" alt="New Help Topics configuration"/>
 </p>
 <p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
+I named mine "Business Critical Outage" which is the most pressing issue. Name yours.
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
+<img src="https://i.imgur.com/mnDqfpT.png" height="80%" width="80%" alt="New Help Topics configuration"/>
 </p>
 <p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
+Click the "New Ticket Options" the tab next to the "Help Topic information" tab you've entered your help topic's name. Assign it a SLA group. Due to the severity of a business outage, I assigned it to SEV-A thus has 1 hour to be addressed and solved.
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
+<img src="https://i.imgur.com/fGVORyP.png" height="80%" width="80%" alt="New Help Topics configuration"/>
 </p>
 <p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
+I also assigned this type of issue to a particular worker (here John).
 </p>
 <br />
-
-
-<p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
-</p>
-<p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
-</p>
+<br />
+<br />
 <br />
 
+<p><h2>VOILÀ 😃</h2>
 
-<p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
-</p>
-<p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
-</p>
-<br />
-
-
-<p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
-</p>
-<p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
-</p>
-<br />
-
-
-<p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
-</p>
-<p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
-</p>
-<br />
-
-
-<p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
-</p>
-<p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
-</p>
-<br />
-
-
-<p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
-</p>
-<p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
-</p>
-<br />
-
-
-<p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
-</p>
-<p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
-</p>
-<br />
-
-
-<p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
-</p>
-<p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
-</p>
-<br />
-
-
-<p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
-</p>
-<p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
-</p>
-<br />
