@@ -165,7 +165,6 @@ When setting John's or an agent's password, uncheck the email confirmation promp
 
 <p>
 <img src="https://i.imgur.com/O5f5Isb.png" height="80%" width="80%" alt="New agents configuration"/>
-<img src="https://i.imgur.com/d3PWb4.png" height="80%" width="80%" alt="New agents configuration"/>
 <img src="https://i.imgur.com/HUQa0fJ.png" height="80%" width="80%" alt="New agents configuration"/>
 </p>
 <p>
@@ -230,28 +229,29 @@ Back to the Admin Panel, go to Manage > SLA > Add SLA plan
 
 
 <p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
+<img src="https://i.imgur.com/jY4Ybid.png" height="80%" width="80%" alt="New SLA configuration"/>
 </p>
 <p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
-</p>
-<br />
-
-
-<p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
-</p>
-<p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
+I created 3 SLAs (SEV-A, SEV-B, SEV-C) with varying severity and deadlines to solving issues. SEV-A is considered the most pressent issues that may severely impact the business operations. Thus I set its SLA to 1 hour. 
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
+<img src="https://i.imgur.com/IGKhC2K.png" height="80%" width="80%" alt="New SLA configuration"/>
 </p>
 <p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
+I set SEV-B and SEV-C of decreasing importance and with a more generous SLA, as shown. 4 hours on a 24/7 schedule for SEV-B and 8 hours on business hours for SEV-C matters.
+</p>
+<br />
+
+
+<p>8. CONFIGURE HELP TOPICS </p>
+<p>
+<img src="https://i.imgur.com/LiGTa8B.png" height="80%" width="80%" alt="New Help Topics configuration"/>
+</p>
+<p>
+On the Admin Panel, go to Agents > Manage > Help Topics > Add New Help Topic. 
 </p>
 <br />
 
