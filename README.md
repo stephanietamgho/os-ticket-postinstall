@@ -98,6 +98,7 @@ Name it :System Administrators" and keep its default settings.
 <br />
 
 
+<p>2. CONFIGURE NEW TEAMS</p>
 <p>
 <img src="https://i.imgur.com/uJcVeIm.png" height="80%" width="80%" alt="New Teams configuration"/>
 </p>
@@ -125,101 +126,105 @@ I also set myself as a memeber of the Level II support department. Go to the nei
 <br />
 
 
+<p>4. ALLOW ANYONE TO CREATE TICKETS</p>
 <p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
+<img src="https://i.imgur.com/asOFNcN.png" height="80%" width="80%" alt="New tickets creation"/>
 </p>
 <p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
+On the Admin Panel, go to Agents > Settings > User, and allow anyone to create tickets. Make sure you also check that registration is required. 
+</p>
+<br />
+
+<p>5. CONFIGURE NEW AGENTS (WORKERS)</p>
+<p>
+<img src="https://i.imgur.com/IbjdNJz.png" height="80%" width="80%" alt="New agents configuration"/>
+</p>
+<p>
+On the Admin Panel, go to Agents > Add New Agent. We will create two agents: John Clear and Jane Doe.
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
+<img src="https://i.imgur.com/1g8ucDv.png" height="80%" width="80%" alt="New agents configuration"/>
 </p>
 <p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
-</p>
-<br />
-
-
-<p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
-</p>
-<p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
+Register John's full name and email address where users may reach him. Then set his login credentials by setting a new password. Click "password".
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
+<img src="https://i.imgur.com/QeWFnwi.png" height="80%" width="80%" alt="New agents configuration"/>
 </p>
 <p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
-</p>
-<br />
-
-
-<p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
-</p>
-<p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
+When setting John's or an agent's password, uncheck the email confirmation prompt.
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
+<img src="https://i.imgur.com/O5f5Isb.png" height="80%" width="80%" alt="New agents configuration"/>
+<img src="https://i.imgur.com/d3PWb4.png" height="80%" width="80%" alt="New agents configuration"/>
+<img src="https://i.imgur.com/HUQa0fJ.png" height="80%" width="80%" alt="New agents configuration"/>
 </p>
 <p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
-</p>
-<br />
-
-
-<p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
-</p>
-<p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
+You may configure your agent's permissions, assign your agent a department, a role as well, using the neighborings tabs.
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
+<img src="https://i.imgur.com/gpYZczx.png" height="80%" width="80%" alt="New agents configuration"/>
 </p>
 <p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
+The new agents' list.
+</p>
+<br />
+
+
+<p>6. CONFIGURE NEW USERS (CUSTOMERS)</p>
+<p>
+<img src="https://i.imgur.com/racELsD.png" height="80%" width="80%" alt="New USERS configuration"/>
+</p>
+<p>
+Switch to Agent Panel by clicking on it. 
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
+<img src="https://i.imgur.com/lxX7CXC.png" height="80%" width="80%" alt="New users configuration"/>
 </p>
 <p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
-</p>
-<br />
-
-
-<p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
-</p>
-<p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
+I will create two users but you can create as many as you want. 
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/yGafQOf.png" height="80%" width="80%" alt="New roles configuration"/>
+<img src="https://i.imgur.com/5iFr2GM.png" height="80%" width="80%" alt="New users configuration"/>
 </p>
 <p>
-On the Admin Panel, go to Agents > Roles > Add New Role. Name it "System Administrator". 
+On the Agent Panel, go to Users > Add New User. 
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/0xxTZom.png" height="80%" width="80%" alt="New users configuration"/>
+</p>
+<p>
+I created Teddy's profile and followed the same procedure with Suszy's. Then I click on "Add User".
+</p>
+<br />
+
+<p>7. CONFIGURE NEW SLA </p>
+<p>
+<img src="https://i.imgur.com/gUqOYzp.png" height="80%" width="80%" alt="New SLA configuration"/>
+</p>
+<p>
+Back to the Admin Panel, go to Manage > SLA > Add SLA plan
 </p>
 <br />
 
